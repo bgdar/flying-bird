@@ -1,0 +1,4 @@
+#tambahkan folder birdvenv
+birdvenv/
+#dan folder.vscode
+.vscode/
